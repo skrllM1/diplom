@@ -1,0 +1,61 @@
+@font-face { font-family: "Roboto"; font-weight: 100; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-t.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-t.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 100; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-t-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-t-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 300; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-l.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-l.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 300; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-l-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-l-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 400; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-r.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-r.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 400; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 500; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-m.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-m.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 500; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-m-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-m-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 700; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-b.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-b.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 700; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-b-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-b-i.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 900; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-bl.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-bl.woff") format("woff");}
+@font-face { font-family: "Roboto"; font-weight: 900; font-style: italic; font-display: swap; src: url("../../../../g/fonts/roboto/roboto-bl-i.woff2") format("woff2"), url("../../../../g/fonts/roboto/roboto-bl-i.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 100; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-t.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-t.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 200; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-e-l.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-e-l.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 300; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-l.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-l.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 400; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-r.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-r.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 500; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-m.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-m.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 600; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-s-b.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-s-b.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 700; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-b.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-b.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 800; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-e-b.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-e-b.woff") format("woff");}
+@font-face { font-family: "Commissioner"; font-weight: 900; font-style: normal; font-display: swap; src: url("../../../../g/fonts/commissioner/commissioner-bl.woff2") format("woff2"), url("../../../../g/fonts/commissioner/commissioner-bl.woff") format("woff");}
+:root {
+	--color-ign4i2dzu: 0, 0, 0;
+	--color-i5pz4xhsk: 255, 255, 255;
+	--color-ilq47lgl4: 255, 255, 255;
+	--color-i0ovwx3x4: 255, 255, 255;
+	--color-iyczk81u7: 255, 255, 255;
+	--color-i0t5s7sx8: 255, 255, 255;
+	--color-i95wiket3: 255, 255, 255;
+}
+
+.section--u-irr5qlj5m { display: block; width: 100%; position: relative; padding-left: 40px; padding-right: 40px; padding-top: 30px; color: rgba(var(--color-ign4i2dzu), 1); cursor: auto; font-family: Roboto, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; line-height: normal; overflow-wrap: break-word; text-align: left; text-indent: 0px; text-shadow: none; text-transform: none }
+.div--u-idv7q40s6 { width: 100%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex }
+.div--u-iycrb2j6e { width: 100%; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex;  -webkit-box-align: center; -ms-flex-align: center; align-items: center }
+.div--u-iq7vlizy2 { width: 100%; position: relative; display: block }
+.text--u-izius0iha { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; vertical-align: top; position: relative; color: rgba(var(--color-i5pz4xhsk), 0.6); font-family: Commissioner, sans-serif }
+.list__item--u-imhi3rhqk { padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px }
+.list--u-i2dokva0b { display: -webkit-box; display: -ms-flexbox; display: flex;  -webkit-box-align: center; -ms-flex-align: center; align-items: center; justify-content: flex-end }
+.link-universal--u-im2yh85eu { display: -webkit-box; display: -ms-flexbox; display: flex; cursor: pointer; text-decoration-line: none }
+.svg_image--u-idr62a1vu { position: relative; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; vertical-align: top; justify-content: center;  -webkit-box-align: center; -ms-flex-align: center; align-items: center; height: 15px; width: 15px; overflow-x: hidden; overflow-y: hidden }
+.svg_image--u-idr62a1vu > svg { flex-shrink: 0 }
+.svg_image--u-idr62a1vu svg { width: 100%; height: 100% }
+.svg_image--u-idr62a1vu .path-ik57w6uxk { fill: rgba(var(--color-ilq47lgl4), 1) }
+.svg_image--u-idr62a1vu .path-icynyjquw { fill: rgba(var(--color-i0ovwx3x4), 1) }
+.svg_image--u-idr62a1vu .path-igya0ifze { fill: rgba(var(--color-iyczk81u7), 1) }
+.svg_image--u-idr62a1vu .path-i2hspbx0o { fill: rgba(var(--color-i0t5s7sx8), 1) }
+.svg_image--u-idr62a1vu .path-ihznwf4bd { fill: rgba(var(--color-i95wiket3), 1) }
+
+@media (max-width: 767px) {
+	.div--u-idv7q40s6 { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;  -webkit-box-align: center; -ms-flex-align: center; align-items: center }
+	.div--u-iycrb2j6e { text-align: center; justify-content: center }
+	.list--u-i2dokva0b { justify-content: center; margin-top: 10px }
+}
+
+@media (max-width: 479px) {
+	.div--u-idv7q40s6 { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;  -webkit-box-align: center; -ms-flex-align: center; align-items: center }
+	.text--u-izius0iha { text-align: center }
+	.list--u-i2dokva0b { justify-content: center; margin-top: 20px }
+	.section--u-irr5qlj5m { padding-left: 20px; padding-right: 20px; padding-top: 60px }
+	.div--u-iycrb2j6e { text-align: center; justify-content: center }
+}
